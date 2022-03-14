@@ -9,4 +9,4 @@ As for the changes from my initial project proposal:
 - I was not able to program the windows to function together. I tried, but it did not work properly and I got frustrated and gave up. In the future I will attempt this. Instead, the windows serve as a "reset" button, as you can close the character creation window to restart character creation at any time.
 - I had ambitions of creating a save feature, but did not have the time to study to implement it.
 
-As for the source of all graphics: I drew them myself. In the future, I will need to use a proper pixel art program instead of Clip Studio Paint, as I noticed a lot of stray pixels that I did not have time to clean up. Be sure to download the zip folder that includes all the cats!
+As for the source of all graphics: I drew them myself. In the future, I will need to use a proper pixel art program instead of Clip Studio Paint, as I noticed a lot of stray pixels that I did not have time to clean up. To make sure the cats work properly, make sure that the game is extracted to a folder named 'final_project' or the cats may not load!
